@@ -1,0 +1,5 @@
+This is the repository for code accompanying the paper "Unsupervised cluster analysis of SARS-CoV-2 genomes indicates that recent (June 2020) cases in Beijing are from a genetic subgroup that consists of mostly European and South(east) Asian samples, of which the latter are the most recent".
+The code provided allows one to re-create the two figures of the paper.
+The file "covid.r" creates Figure1.
+The file "timeplot.r" creates Figure2.
+The two tables "table1.csv" and "table2.csv" contain supplementary data showing what samples are located in the neighborhood of the new China samples.
